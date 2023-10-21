@@ -1,8 +1,18 @@
 h1 {
     text-align:center;
     font: monospace;
-    size: 1000px;
+    font-size: 100px;
 }
 body {
     background-color: crimson;
+}
+div.background {
+    background: url(JOHNNY\ AIRLINES.png) no-repeat;
+    border: 4px solid black;
+    width: fit-content;
+}
+  
+div.transbox {
+    border: 1px solid black;
+    opacity: 0.75;
 }
